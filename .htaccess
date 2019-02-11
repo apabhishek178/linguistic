@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^linguistic\.coer\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.linguistic\.coer\.in$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "https\:\/\/linguistic\.coer\.in\/" [R=301,L]
+

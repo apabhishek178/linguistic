@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html>
+<head>
+<titleF> THE LINGUISTIC COMMITTEE </title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Bootstrap -->
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
+<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="css/moveme.css" rel="stylesheet">
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+<![endif]-->
+<style>
+.yogi1{padding-left:320px;}
+.oye{padding-left:600px;}
+.o1:hover{opacity:0.7;}
+.o2:hover{opacity:0.7;}
+.o3:hover{opacity:0.7;}
+.fontj{font-size: 80px; }
+.fontsize-container{font-size: 30px;}
+.fontj-align{text-align: center;}
+.bold{font-weight: bold; color: white;}
+.boldfb{font-weight: bold; font-family: sans-serif;}
+.footerbg{background-color: #303845;}
+.fbw{background-color: #fff;color:#303845;padding-top: 40px; padding-bottom: 40px;}
+.my{
+    padding-left:80px;
+    padding-right: 60px;
+}
+.myTwitter{ padding-right: 60px;}
+.FOO1{color:#fff;font-weight:bold;padding-top:40px;}
+.visible{color: #fff;}
+.wh{color:#FFF;padding-left:20px;padding-top: 0px;}
+.finally{text-align:right;}
+.uf{padding-left: }
+.carousel-padding{ padding-bottom: 240px;}
+.concolor{background-color: #fff;}
+</style>
+</head>
+<body>
+    <div id="id="#yogi"">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" >
+    <div class="navbar-header ">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand bold" href="index.html">THE LINGUISTIC COMMITTEE</a>
+    </div> 
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav ">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="us.html">About us</a></li>
+            <li><a href="blog.html">Events</a></li>
+            
+            <li><a href="contact.html">Contact</a></li>
+            <!--<li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="http://www.facebook.com">Facebook</a></li>
+                    <li><a href="http://www.twitter.com">Twitter</a></li>
+                    <li><a href="https://plus.google.com">Google+</a></li>
+                    <li><a href="http://www.linkedin.com">LinkedIn</a></li>
+                </ul>
+            </li>-->
+        </ul>
+    </div>    
+</nav>
+<!-- End Navigation -->
+<div id="myCarousel" class="carousel slide">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner ">
+        <div class="item active ">
+            <img src="images/cult1.jpg">
+            <div class="container active ">
+                <div class="carousel-caption carousel-padding">
+                    <!--<h1>Highlights 2015</h1>
+                    <p>Make Words Your Wings</p>-->
+                    
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="kTMK4Aq7c.jpg">
+            <div class="container active">
+                <div class="carousel-caption">
+                    <!--<h1>#Highlights_2015</h1>
+                    <p>Thanks for some unforgettable moments</p>
+                    <p><a href="#" class="btn btn-primary btn-large">Sign up today</a></p>-->
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="images/slide3.jpg">
+            <div class="container active">
+                <div class="carousel-caption">
+                    <!--<h1>#Highlights</h1>
+                    <p>The moments</p>-->
+                    <!--<p><a href="#" class="btn btn-primary btn-large">Sign up today</a></p>-->
+                </div>
+            </div>
+        </div>
+    </div>    
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>    
+    
+<!--Carousel End -->
+<div class="intro-block">
+    <div class="container">
+        <div class="row "><!--
+            <div class="col-xs-3">
+                <img class="img-responsive tpad" src="images/moveMe.png">
+            </div>-->
+            <div class="col-xs-12 fontj-align" >
+                <h1 class = "fontj">The Linguistic Committee  <span class="text-muted"> </span></h1>
+                <p class="lead fontsize-container">Make words your wings</p>
+            </div>
+        </div>
+    </div>    
+</div>
+<!-- End Intro Text -->
+<div class="container padded">
+    <div class="row">
+        <div class="col-lg-12"><h2>Updates</h2><hr></div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6 col-md-3">
+            <img class="img-circle img-responsive" src="images/speed.jpg">
+            <h3 >Azaadi '70</h3>
+            <p>We organized Azaadi'70 on completion of 70 years of Independence of India. The event was a huge success which saw mass participation in all the events.  </p>
+           
+        </div>
+        <div class="col-sm-6 col-md-3">
+            <img class="img-circle img-responsive" src="images/eco.jpg">
+            <h3>TOPEL</h3>
+            <p>Test Of Proficiency in English Language, is conducted annually.The exam is inspired by ETS TOEFL Examination. </p>
+            
+        </div>
+        <div class="clearfix hidden-md hidden-lg"></div>
+        <div class="col-sm-6 col-md-3">
+            <img class="img-circle img-responsive" src="images/scenic.jpg">
+            <h3>Language Courses</h3>
+            <p>We are also conducting German and Spanish language classes.</p>
+            
+        </div>
+        <div class="col-sm-6 col-md-3">
+            <img class="img-circle img-responsive" src="images/safety.jpg">
+            <h3>JAM sessions</h3>
+            <p>We conduct JAM sessions on a regular basis in college campus.</p>
+            
+        </div>
+    </div>
+</div>    
+<!-- End Page Content -->
+<div class="marketing">
+    <div class="container">
+        <div class="row">
+            <!--<div class="col-sm-6">
+                <img class="img-responsive" src="images/app.jpg">
+            </div>
+            <div class="col-sm-6">
+                <h3 class="tpad">peruse, envision, execute</h3><hr>
+                <p>Download the free english learning app today from playstore</p>
+                <p><a class="btn btn-large btn-primary" href="#">Get it now!</a></p>
+            </div>
+        -->
+        </div>
+    </div>    
+</div> 
+<!-- End Marketing Section -->
+
+<!-- info panel end -->    <!--
+<div class="ftr">
+    <div class="container">
+        <div class="row">
+            <footer>
+                <div class="pull-left ft_space">
+                    <address>
+                    <h3>The Linguistic Committee</h3>
+                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;make words your wings
+                    <br>
+                   <!-- <a href="mailto: first.last@moveme.com">lyricstation333@gmail.com</a><br>
+                    
+                    </address>
+                </div>
+                <div class="pull-right ft_space">
+                    <img class="img-responsive" src="images/moveMe.png">
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&copy;The Linguistic Committee 2016</p>
+                </div>
+            </footer>
+        </div>
+    </div>    
+    
+</div>    
+-->
+<!-- <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">contact us</h2>
+                    <hr class="primary">
+                    <p></p>
+                </div>
+                <div class="col-lg-4 col-lg-offset-2 text-center">
+                    <i class="fa fa-phone fa-3x wow bounceIn"></i>
+                    <p></p>
+                </div>
+
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                    <p class="oye"><IMG SRC="images/fb_icon_325x325.png" class="o1"/>
+                    <IMG SRC="images/insta.png" class="o2" /><IMG SRC="images/in.png" class="o3" />
+
+                </div>
+            </div>
+        </div>
+    </section>-->
+
+   <!-- <section id="copyright" class="color_section">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-12 text-center">
+                   <h4> &copy; Copyright 2016 -THE LINGUISTIC COMMITTEE </h4>
+                    <br />
+                    Advertising-Carrers-Feedback-Sitemap
+                    <br />
+                    Terms and Conditions-Privacy Policy
+                    <br />
+                    
+                </div>
+            </div>
+
+        </div>
+         <div class="row">
+             <div class="social_icons size">
+            <a class="social-icons__sep" href="#"><i class="fa fa-twitter 1"></i></a>
+            <a class="social-icons__sep" href="#"><i class="fa fa-facebook 2"></i></a>
+            <a class="social-icons__sep" href="#"><i class="fa fa-pinterest 3"></i></a>
+            <a class="social-icons__sep" href="#"><i class="fa fa-google-plus 4"></i></a>
+            <a href="#"><i class="fa fa-rss 5"></i></a>
+        </div>  
+        </div>
+    </section>-->
+
+
+
+
+
+
+<div class="marketing fbw">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 boldfb">
+                <a href="href="https://www.facebook.com/coerlinguists/?fref=ljts">
+                <img src = "images/fb_icon_325x325.png" /></a>
+                Like us on Facebook
+                 <span class="my">
+                    <a href="https://www.instagram.com/coerlinguists">
+                <img src= "images/myinsta.png" href=" " />
+            </a>
+               Follow us on Instagram</span>
+               <span class="myTwitter">
+               <a href="https://www.twitter.com/coer_linguists">
+           <img src="images/TWITTER_325x325.png" width="50" height="50"></a>
+           Follow us on Twitter</span>
+           <a href="https://www.gmail.com/">
+           <img src="images/google_plus_logo.png" width="50" height="50"></a>
+           Follow us on Google+
+
+            </div>
+            <div class="col-sm-">   
+                
+            </div>
+        </div>
+    </div>    
+</div>
+
+
+
+
+
+<div class="marketing footerbg">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 FOO1">
+                THE LINGUISTIC COMMITTEE
+                
+            </div>
+            <div class="wh">
+                <br />
+              
+              <br />
+              Based in College Of Engineering Roorkee(COER), The Linguisitic Committee aims at promulgating language-based knowledge and providing with a platform that aims at enhancing the soft-skills of the students.  
+              The Linguistic Committee was introduced under the leadership of Dr. Rashmi Gupta and Ms. Divya in the year 2006. Prof. Shashi Choudhary later joined the committee as the Co-convener till 2015.
+              <br>
+Currently Dr. Sushil Jindal is the co-conveners of The Linguistic Committee. This committee has been serving the purpose of ameliorating a student’s personality for a little over a decade.
+<br> 
+The focal point of our committee is Expressions, our annual inter college fest. The fest has various events to test students' skills. All the events revolve around the fest-theme which is refashioned every year. The events are set in a manner which test an individual’s speaking skills, writing skills, debating skills, knowledge of English grammar, knowledge of current affairs, thinking out of the box abilities and perspicacity. There are also fun events for students to have a gala time.
+<br /><span class="finally"><center><b>Copyright &copy;</b>2018.All rights reserved </center></span>
+<hr />
+
+            </div>
+        </div>
+    </div>    
+</div>
+<div class="col-sm-12 boldfb">
+	<div class="container">
+	</br>
+	<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=linguistic.coer.in&digit=style/plain/3/&reloads=1" alt="" title="" border="0"></a><br /><a href="http://reliablecounter.com/blog/optoma-hd39darbee-review/" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">THESE MANY HAVE VISITED OUR WEBSITE SINCE 2016</a>
+	</hr>
+	</div>
+
+</div>
+</div>
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<script>
+$(function (){
+    $('.carousel').carousel({
+        interval: 4000
+    });
+})    
+    
+</script>
+</body>
+</html>

@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>THE LINGUISTIC COMMITTEE</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Bootstrap -->
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
+<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="css/moveme.css" rel="stylesheet">
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+<![endif]-->
+<style>
+.zx1{}
+.q1{font-size:120px;padding-right: 30px;}
+.google_plus_logo{background-color: #303845;}
+.yogi1{padding-left:320px;}
+.oye{padding-left:600px;}
+.o1:hover{opacity:0.7;}
+.o2:hover{opacity:0.7;}
+.o3:hover{opacity:0.7;}
+.fontj{font-size: 50px;}
+.fontj-align{text-align: center;}
+.bold{font-weight: bold;
+    color: white;}
+.boldfb{font-weight: bold;
+    font-family: sans-serif;}
+.footerbg{background-color: #303845;}
+.fbw{background-color: #fff; 
+    color:#303845;
+    padding-top: 40px;
+    padding-bottom: 40px;}
+.my{
+    padding-left:80px;
+    padding-right: 60px;
+}
+.myTwitter{ padding-right: 60px;}
+.FOO1{color:#fff;font-weight:bold;padding-top:40px;}
+.visible{color: #fff;}
+.wh{color:#FFF;
+    padding-left:20px;
+    padding-top: 0px;}
+.finally{text-align:right;}
+.bold{font-weight: bold;
+    color: white;}
+.uf{padding-left; }
+
+</style>
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand bold"  href="index.html">THE LINGUISTIC COMMITTEE</a>
+    </div> 
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="us.html">About us</a></li>
+            <li class="active"><a href="blog.html">Events</a></li>
+            
+            <li><a href="contact.html">Contact</a></li>
+            <!--<li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="http://www.facebook.com">Facebook</a></li>
+                    <li><a href="http://www.twitter.com">Twitter</a></li>
+                    <li><a href="https://plus.google.com">Gsoogle+</a></li>
+                    <li><a href="http://www.linkedin.com">LinkedIn</a></li>
+                </ul>
+            </li>-->
+        </ul>
+    </div>    
+</nav>
+<!-- End Navigation -->
+<div class="intro-block google_plus_logo">
+    <div class="container">
+        <div class="row">
+          
+            </div>
+            <div class="col-xs-9">
+                <h1 class="q1">EVENTS <span class="text-muted">&raquo; </span></h1>
+                <p class="lead">
+                Explore Events</p>
+            </div>
+        </div>
+    </div>    
+</div>
+<!-- End Intro Text -->
+<div class="container padded">
+    <div class="row">
+        <div class="col-sm-8 blog">
+            <section>
+                <h1><a href="#">Adzap</a></h1>
+                <p class="lead"><a href="index.html">Get mad for ads</a></p>
+                <hr>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Aug 30 at 1:30 PM</p>
+                <hr>
+                <img src="images/adzap.JPG" class="img-responsive">
+                <hr>
+                <p>In addition to technical knowledge one also needs the art to present their ideas in an
+appealing way, hence Adzap. It's a variation of the popular business plan presentations
+which aims at developing market knowledge and skills among the participants and at
+the same time test.
+Their creativity and presentation prowess enabling them to know and learn the creative
+area of the industry.</p>
+                <hr>
+            </section>
+
+
+             <section>
+                <h1><a href="#">Crossfire</a></h1>
+                <p class="lead"><a href="index.html">The Debate Competition</a></p>
+                <hr>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Aug 31 at 11:00 AM</p>
+                <hr>
+                <img src="images/co2.jpg" class="img-responsive">
+                <hr>
+                <p>The debate is an integral part of Expressions'17. As one needs to have the wherewithal
+to present their views and ideas compellingly, Crossfire aims at improving the
+communication skills of the participants as well as bolsters their confidence and
+enhances their personality.</p>
+
+
+            <section>
+                <h1><a href="#">The Big Fight</a></h1>
+                <p class="lead"><a href="index.html">The Group Dicussion</a></p>
+                <hr>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Aug,2016 at 11:00 AM</p>
+                <hr>
+                <img src="images/blog3.jpg" class="img-responsive">
+                <hr>
+                <p>Group Discussion, the most quintessential element that goes into the making of a
+complete individual. It aims at improving group behaviour and individual dynamics
+simultaneously.</p>
+                
+                <hr>
+            </section>
+
+             <section>
+                <h1><a href="#">Critic</a></h1>
+                <p class="lead"><a href="index.html">The Movie Gallery</a></p>
+                <hr>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Aug 31 at 11:00 AM</p>
+                <hr>
+                <img src="images/critic.JPG" class="img-responsive">
+                <hr>
+                <p>It is one of the most popular Linguistic committee events. The Critic is a favourite
+amongst the students and draws mass participation. Movies will be decided via a poll
+on the event website.</p>
+                
+                <hr>
+            </section>
+
+             <section>
+                <h1><a href="#">Spellathon</a></h1>
+                <p class="lead"><a href="index.html">Cast your spell</a></p>
+                <hr>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Aug 31 at 11:00 AM</p>
+                <hr>
+                <img src="images/spellathon2.JPG" class="img-responsive">
+                <hr>
+                <p>Spellathon is inspired from the ESPN's popular "Spelling Bee", the event requires the
+participant to spell out the given word within a given time span. To assist the participant
+the meanings and pronunciations of the word will be provided using software.</p>
+                
+                <hr>
+            </section>
+
+            <section>
+                <h1><a href="#">Sportech</a></h1>
+                <p class="lead"><a href="index.html">Go, win the day!</a></p>
+                <hr>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Aug 31 at 11:00 AM</p>
+                <hr>
+                <img src="images/sportech.JPG" class="img-responsive">
+                <hr>
+                <p>Sportech is one of the most participated event in the fest. It checks participants on their
+knowledge of sports.</p>
+                
+                <hr>
+            </section>
+
+            <section>
+                <h1><a href="#">Imagram</a></h1>
+                <p class="lead"><a href="index.html">Into your brain</a></p>
+                <hr>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Aug 31 at 11:00 AM</p>
+                <hr>
+                <img src="images/xyz1.jpg" class="img-responsive">
+                <hr>
+                <p>Imagram is a picture perception testimonial event. The participants are asked questions
+based on the sequence of images.</p>
+                
+                <hr>
+            </section>
+            
+            <section>
+                <h1><a href="#">Senate</a></h1>
+                <p class="lead"><a href="index.html"> Youth </a></p>
+                <hr>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Aug 31 at 11:00 AM</p>
+                <hr>
+                <img src="images/blog1.jpg" class="img-responsive">
+                <hr>
+                <p>It's a parliamentary debate in which two teams (opposition and ruling party) discuss an
+agenda and formulate policy. Agendas are given to them at the spot and a limited
+number of time is given to think and make notes about the given topic.</p>
+                
+                <hr>
+            </section>
+            <section>
+                <h1><a href="#">Street Battle</a></h1>
+                <p class="lead"><a href="index.html">A dance face-off</a></p>
+                <hr>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Aug 30 at 11:00 AM</p>
+                <hr>
+                <img src="images/blog2.jpg" class="img-responsive">
+                <hr>
+                <p>This is a dance face-off event that takes place between crowds. For all the dancing feet, this event is all one can ask for.</p>
+                
+                <hr>
+            </section>
+                <section>
+                <h1><a href="#">Colympics</a></h1>
+                <p class="lead">LAN Gaming Competition</a></p>
+                <hr>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Aug 30 at 11:00 AM</p>
+                <hr>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/S_XaJksiAjM" frameborder="0" allowfullscreen></iframe>
+                <hr>
+                <p>Most-heated and exhilarating event of the fest.This event is the show-stopper and converging point of many teams across the region.</p>
+                
+                <hr>
+            </section>
+            <section>
+                <h1><a href="#" class="zx1">Youth Icon</a></h1>
+                <p class="lead"><a href="index.html">Mini version of Youth Icon</a></p>
+                <hr>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Aug 30 at 11:00 AM</p>
+                <hr>
+                <img src="images/co3.jpg" class="img-responsive">
+                <hr>
+                <p>A game stretching the whole duration of the fest to test the skills of the participants in
+various fields, pushing their limits and checking if they have what it takes to become the
+“Youth Icon”.</p>
+                
+                <hr>
+            </section>
+            <!--<ul class="pagination">
+                <li><a href="#">&laquo;</a></li>
+                <li class="active"><a href="#">1</a></li>
+                <li><a href="2.html">2</a></li>
+                <li><a href="#">3</a></li>
+                <li><a href="#">4</a></li>
+                <li><a href="#">5</a></li>
+                <li><a href="#">&raquo;</a></li>
+            </ul>-->
+        </div>
+        <div class="col-sm-4 sidebar">
+            <!--<section>
+                <h3 class="tpad">Search</h3>
+                <div class="input-group input-group-lg tpad">
+                    <span class="input-group-addon glyphicon glyphicon-search"></span>
+                    <input type="text" class="form-control input-lg" placeholder="Search">
+                    <span class="input-group-btn">
+                        <button class="btn btn-default" type="button">Go!</button>
+                    </span>
+                </div>
+                <hr>
+            </section>
+            
+            <section>
+                <h3 class="tpad">Updates</h3>
+                <div class="media tpad">
+                    <a class="pull-left" href="#">
+                        <img class="media-object" src="images/user.gif" alt="user">
+                    </a>
+                    
+                    <div class="media-body">
+                        <h4 class="media-heading"></h4>
+                        <p class="bpad">Unveiling soon...</p>
+                    </div>
+                </div>
+            
+            </section>-->
+        </div>
+    </div>    
+</div>    
+<!-- End Page Content -->
+
+<!-- End Marketing Section -->
+
+<!-- info panel end -->    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="marketing fbw">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 boldfb">
+                <a href="https://www.facebook.com/coerlinguists/">
+                <img src = "images/fb_icon_325x325.png" ></a>
+                Like us on Facebook
+                 <span class="my">
+                    <a href="https://www.instagram.com/coerlinguists">
+                <img src= "images/myinsta.png" href=" " />
+            </a>
+               Follow us on Instagram</span>
+               <span class="myTwitter">
+               <a href="https://www.twitter.com/coer_linguists">
+           <img src="images/TWITTER_325x325.png" width="50" height="50"></a>
+           Follow us on Twitter</span>
+           <a href="https://www.gmail.com/">
+           <img src="images/google_plus_logo.png" width="50" height="50"></a>
+           Follow us on Google+
+
+            </div>
+            <div class="col-sm-">
+                
+            </div>
+        </div>
+    </div>    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footerbg">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 FOO1">
+                THE LINGUISTIC COMMITTEE
+                
+            </div>
+            <div class="wh">
+                <br />
+              
+              <br />
+              The Linguistic Committee was introduced under the leadership of Dr. Rashmi Gupta and Ms. Divya in the year 2006. Prof. Shashi Choudhary later joined the committee as the Co-convener till 2015.
+              <br>
+Currently Dr. Sushil Jindal is the co-conveners of The Linguistic Committee. This committee has been serving the purpose of improving a student's personality for a little over a decade.
+<br> 
+The focal point of our committee is “Expressions”. Expressions is a college-fest conducted annually by The Linguistic Committee. The fest has various events which test a student’s skill set. All the events revolve around the fest-theme which is refashioned every year. The events are set in a manner which test an individual's speaking skills, writing skills, debating skills, knowledge of English grammar, knowledge of current affairs, thinking out of the box abilities and perspicacity. There are also fun events for students to have a gala time.
+<br /><span class="finally"><center><b>Copyright &copy;</b>2016.All rights reserved </center></span>
+<hr />
+
+            </div>
+        </div>
+    </div>    
+</div>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
